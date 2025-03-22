@@ -1,4 +1,4 @@
-# US. Patent Citations Analysis
+# U.S. Patent Citations Analysis
 
 ## Overview
 This project analyzes U.S. patent data to compare citation patterns of federally funded and non-federally funded patents. 
